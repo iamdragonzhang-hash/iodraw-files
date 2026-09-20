@@ -1118,7 +1118,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_lrrqJuZZ3OXu0JIoG4j" name="tmp">
-    <mxGraphModel dx="2257" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1816" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1136,6 +1136,9 @@
         </mxCell>
         <mxCell id="49yXRyPAdsIOIiyJxanh-4" value="trigger_by_ext_cpu2core01" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="1200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="49yXRyPAdsIOIiyJxanh-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="49yXRyPAdsIOIiyJxanh-6" target="49yXRyPAdsIOIiyJxanh-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="49yXRyPAdsIOIiyJxanh-6" value="audio_route_build_src_plan" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="900" width="120" height="60" as="geometry" />
