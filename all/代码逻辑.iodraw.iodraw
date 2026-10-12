@@ -1161,11 +1161,17 @@
         <mxCell id="vEIarFYS46JWlDqill_M-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vEIarFYS46JWlDqill_M-4" target="vEIarFYS46JWlDqill_M-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="vEIarFYS46JWlDqill_M-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vEIarFYS46JWlDqill_M-4" target="vEIarFYS46JWlDqill_M-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vEIarFYS46JWlDqill_M-4" value="&lt;div style=&quot;color: rgb(205, 214, 244); background-color: rgb(30, 30, 46); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 20px; line-height: 27px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #dcdcaa;&quot;&gt;tool_spi_reset&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-401.5" y="-295" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vEIarFYS46JWlDqill_M-6" value="1、模式设置，FIFO使能&lt;br&gt;2、enable ISR" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-201.5" y="-295" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vEIarFYS46JWlDqill_M-8" value="&lt;div style=&quot;color: rgb(205, 214, 244); background-color: rgb(30, 30, 46); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 20px; line-height: 27px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #dcdcaa;&quot;&gt;k_sem_init&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-401.5" y="-155" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
