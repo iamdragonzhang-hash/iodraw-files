@@ -1173,8 +1173,11 @@
         <mxCell id="vEIarFYS46JWlDqill_M-8" value="&lt;div style=&quot;color: rgb(205, 214, 244); background-color: rgb(30, 30, 46); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 20px; line-height: 27px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #dcdcaa;&quot;&gt;k_sem_init&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-401.5" y="-155" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="vEIarFYS46JWlDqill_M-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vEIarFYS46JWlDqill_M-10" target="vEIarFYS46JWlDqill_M-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vEIarFYS46JWlDqill_M-10" value="&lt;div style=&quot;color: #cdd6f4;background-color: #1e1e2e;font-family: Consolas, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 20px;line-height: 27px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #dcdcaa;&quot;&gt;dsp_app的main函数&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-420" y="-650" width="190" height="50" as="geometry" />
+          <mxGeometry x="-436.5" y="-670" width="190" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
