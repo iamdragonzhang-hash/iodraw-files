@@ -1152,8 +1152,14 @@
         <mxCell id="vEIarFYS46JWlDqill_M-1" value="&lt;div style=&quot;color: #cdd6f4;background-color: #1e1e2e;font-family: Consolas, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 20px;line-height: 27px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #dcdcaa;&quot;&gt;dsp_tool_init&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-413" y="-560" width="143" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="vEIarFYS46JWlDqill_M-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vEIarFYS46JWlDqill_M-2" target="vEIarFYS46JWlDqill_M-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vEIarFYS46JWlDqill_M-2" value="&lt;div style=&quot;color: rgb(205, 214, 244); background-color: rgb(30, 30, 46); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 20px; line-height: 27px; white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 27px;&quot;&gt;&lt;span style=&quot;color: #dcdcaa;&quot;&gt;tool_spi_init&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-401.5" y="-435" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vEIarFYS46JWlDqill_M-4" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-401.5" y="-295" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
