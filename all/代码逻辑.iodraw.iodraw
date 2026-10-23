@@ -1200,8 +1200,8 @@
         <mxCell id="vEIarFYS46JWlDqill_M-19" value="&lt;div style=&quot;background-color: rgb(30, 30, 46); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 20px; line-height: 27px; white-space: pre; color: rgb(205, 214, 244);&quot;&gt;&lt;span style=&quot;color: #ce9178;&quot;&gt;clk_rebuild&lt;br&gt;&lt;/span&gt;&lt;div style=&quot;line-height: 27px;&quot;&gt;s_rebuild_worker&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2320" y="-495" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vEIarFYS46JWlDqill_M-20" value="&lt;div style=&quot;color: #cdd6f4;background-color: #1e1e2e;font-family: Consolas, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 20px;line-height: 27px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #9cdcfe;&quot;&gt;s_wake_semaphore&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2610" y="-540" width="210" height="50" as="geometry" />
+        <mxCell id="vEIarFYS46JWlDqill_M-20" value="&lt;div style=&quot;color: #cdd6f4;background-color: #1e1e2e;font-family: Consolas, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 20px;line-height: 27px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #9cdcfe;&quot;&gt;s_wake_semaphore&lt;br/&gt;&lt;/span&gt;&lt;div style=&quot;line-height: 27px;&quot;&gt;&lt;span style=&quot;color: #9cdcfe;&quot;&gt;s_exit_semaphore&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;color: #9cdcfe;&quot;&gt;&lt;br/&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2481" y="-640" width="210" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
