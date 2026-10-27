@@ -1206,6 +1206,9 @@
         <mxCell id="vEIarFYS46JWlDqill_M-21" value="&lt;div style=&quot;background-color: rgb(30, 30, 46); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 20px; line-height: 27px; white-space: pre; color: rgb(205, 214, 244);&quot;&gt;&lt;div style=&quot;line-height: 27px;&quot;&gt;&lt;span style=&quot;color: #ce9178;&quot;&gt;srd_mon&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 27px;&quot;&gt;&lt;div style=&quot;line-height: 27px;&quot;&gt;&lt;span style=&quot;color: #dcdcaa;&quot;&gt;srd_clock_monitor_task&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2660" y="-495" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="vEIarFYS46JWlDqill_M-22" value="&lt;div style=&quot;color: #cdd6f4;background-color: #1e1e2e;font-family: Consolas, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 20px;line-height: 27px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #cdd6f4;&quot;&gt;spi_log_print_cmd_handler&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2540" y="-80" width="310" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
