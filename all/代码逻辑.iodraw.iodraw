@@ -1216,10 +1216,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vEIarFYS46JWlDqill_M-23" value="&lt;div style=&quot;color: rgb(205, 214, 244); background-color: rgb(30, 30, 46); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 20px; line-height: 27px; white-space: pre;&quot;&gt;HOST_CTRL_FUNC_LOG_GET&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2635" y="45" width="120" height="60" as="geometry" />
+          <mxGeometry x="2635" y="-10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vEIarFYS46JWlDqill_M-25" value="&lt;div style=&quot;color: rgb(205, 214, 244); background-color: rgb(30, 30, 46); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 20px; line-height: 27px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #dcdcaa;&quot;&gt;host_control_func_log_get&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2635" y="185" width="120" height="60" as="geometry" />
+          <mxGeometry x="2635" y="70" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
