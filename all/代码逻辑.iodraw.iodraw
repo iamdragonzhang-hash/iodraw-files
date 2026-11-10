@@ -1343,6 +1343,21 @@
         <mxCell id="2G5aj4-CnpsSkqDumdE--2" value="SRD&amp;amp;BCLK检测" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="-300" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="zK3pjvG4ShyT04d_TW1F-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zK3pjvG4ShyT04d_TW1F-4" target="zK3pjvG4ShyT04d_TW1F-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zK3pjvG4ShyT04d_TW1F-4" value="clock_monitor&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-1169" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zK3pjvG4ShyT04d_TW1F-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zK3pjvG4ShyT04d_TW1F-5" target="zK3pjvG4ShyT04d_TW1F-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zK3pjvG4ShyT04d_TW1F-5" value="mcu_audio_spdifrx_sample_rate_hz_get" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zK3pjvG4ShyT04d_TW1F-7" value="audio_in_control(AIN_CMD_SPDIF_GET_SAMPLERATE_HZ)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-1010" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
