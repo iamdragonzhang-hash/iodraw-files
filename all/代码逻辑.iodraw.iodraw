@@ -1450,7 +1450,7 @@
             <mxPoint x="42" y="-60" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aGwAJomjiOGLXFAXk9oH-6" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FZ3-sGv3P7ajsWyE9Rjl-3">
+        <mxCell id="aGwAJomjiOGLXFAXk9oH-6" value="1、校验payload_check" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FZ3-sGv3P7ajsWyE9Rjl-3">
           <mxGeometry x="0.3149" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
