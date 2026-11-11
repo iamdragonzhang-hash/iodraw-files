@@ -1450,16 +1450,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aGwAJomjiOGLXFAXk9oH-2" value="&lt;div style=&quot;color: rgb(205, 214, 244); background-color: rgb(30, 30, 46); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 20px; line-height: 27px; white-space-collapse: preserve;&quot;&gt;&lt;span style=&quot;color: #6a9955;&quot;&gt;校验 payload 头&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FZ3-sGv3P7ajsWyE9Rjl-3">
+        <mxCell id="aGwAJomjiOGLXFAXk9oH-2" value="&lt;div style=&quot;color: rgb(205, 214, 244); background-color: rgb(30, 30, 46); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 20px; line-height: 27px; white-space-collapse: preserve;&quot;&gt;&lt;span style=&quot;color: #6a9955;&quot;&gt;1校验 payload 头&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FZ3-sGv3P7ajsWyE9Rjl-3">
           <mxGeometry x="-0.0289" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="18" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FZ3-sGv3P7ajsWyE9Rjl-1" value="&lt;div style=&quot;color: #cdd6f4;background-color: #1e1e2e;font-family: Consolas, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 20px;line-height: 27px;white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 27px;&quot;&gt;&lt;span style=&quot;color: #dcdcaa;&quot;&gt;upspi_burn_run&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="255" y="230" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FZ3-sGv3P7ajsWyE9Rjl-2" value="&lt;div style=&quot;color: rgb(205, 214, 244); background-color: rgb(30, 30, 46); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 20px; line-height: 27px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #dcdcaa;&quot;&gt;burn_payload_check&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="650" y="70" width="120" height="60" as="geometry" />
+          <mxGeometry x="690" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FZ3-sGv3P7ajsWyE9Rjl-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FZ3-sGv3P7ajsWyE9Rjl-4" target="FZ3-sGv3P7ajsWyE9Rjl-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
