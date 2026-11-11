@@ -1575,7 +1575,7 @@
         </mxCell>
         <mxCell id="92cMbqFPlEbW9E1rXJLo-40" value="&lt;div style=&quot;color: rgb(205, 214, 244); background-color: rgb(30, 30, 46); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; line-height: 27px; white-space-collapse: preserve;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;AIN_CMD_SPDIF_GET_SAMPLERATE_HZ&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="92cMbqFPlEbW9E1rXJLo-37">
           <mxGeometry x="-0.2417" y="2" relative="1" as="geometry">
-            <mxPoint y="10" as="offset" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="92cMbqFPlEbW9E1rXJLo-35" value="&lt;div style=&quot;color: rgb(205, 214, 244); background-color: rgb(30, 30, 46); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 20px; line-height: 27px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #dcdcaa;&quot;&gt;mcu_audio_spdifrx_sample_rate_hz_get&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1597,7 +1597,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="92cMbqFPlEbW9E1rXJLo-41" value="&lt;div style=&quot;color: rgb(205, 214, 244); background-color: rgb(30, 30, 46); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 20px; line-height: 27px; white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 27px;&quot;&gt;&lt;span style=&quot;color: #dcdcaa;&quot;&gt;input_sample_rate_match_hz&lt;br&gt;做hz转换得到具体档位&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="1180" width="120" height="60" as="geometry" />
+          <mxGeometry x="900" y="1169" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="92cMbqFPlEbW9E1rXJLo-43" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;SPDIF频率检测联动ASRC&lt;/font&gt;" style="triangle;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="510" y="950" width="160" height="160" as="geometry" />
