@@ -1576,8 +1576,14 @@
         <mxCell id="92cMbqFPlEbW9E1rXJLo-35" value="&lt;div style=&quot;color: rgb(205, 214, 244); background-color: rgb(30, 30, 46); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 20px; line-height: 27px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #dcdcaa;&quot;&gt;mcu_audio_spdifrx_sample_rate_hz_get&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="900" y="860" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="92cMbqFPlEbW9E1rXJLo-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="92cMbqFPlEbW9E1rXJLo-36" target="92cMbqFPlEbW9E1rXJLo-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="92cMbqFPlEbW9E1rXJLo-36" value="dash_audio_in_control" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="900" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="92cMbqFPlEbW9E1rXJLo-38" value="phy_spdifrx_sample_rate_hz_get" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="1140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
