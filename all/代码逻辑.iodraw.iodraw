@@ -1483,8 +1483,20 @@
         <mxCell id="92cMbqFPlEbW9E1rXJLo-2" value="SPDIF 线（光/同轴）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="950" y="398" width="140" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="92cMbqFPlEbW9E1rXJLo-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="92cMbqFPlEbW9E1rXJLo-3" target="92cMbqFPlEbW9E1rXJLo-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="92cMbqFPlEbW9E1rXJLo-3" value="SPDIFRX 解码器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1185" y="398" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="92cMbqFPlEbW9E1rXJLo-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="92cMbqFPlEbW9E1rXJLo-5" target="92cMbqFPlEbW9E1rXJLo-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="92cMbqFPlEbW9E1rXJLo-5" value="SPDIFRX 硬件 FIFO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1365" y="398" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="92cMbqFPlEbW9E1rXJLo-7" value="SPDIFRX 硬件 FIFO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1575" y="398" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
