@@ -1489,7 +1489,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aGwAJomjiOGLXFAXk9oH-19" value="4、从机复位后从RAM开始运行" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aGwAJomjiOGLXFAXk9oH-18">
+        <mxCell id="aGwAJomjiOGLXFAXk9oH-19" value="4、从机复位后从RAM开始运行，接管CPU" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aGwAJomjiOGLXFAXk9oH-18">
           <mxGeometry x="0.22" relative="1" as="geometry">
             <mxPoint x="55" as="offset" />
           </mxGeometry>
@@ -1533,8 +1533,8 @@
         <mxCell id="aGwAJomjiOGLXFAXk9oH-17" value="CPU 核被复位，硬件从取向量地址读前 8 字节；因 bit5=1，取指向量地址被重映射到 0x20000000" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1050" y="525" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aGwAJomjiOGLXFAXk9oH-20" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1430" y="525" width="120" height="60" as="geometry" />
+        <mxCell id="aGwAJomjiOGLXFAXk9oH-20" value="CPU 装 MSP → 跳到 ramboot_reset（stub_entry.S）：cpsid i 关中断 → VTOR=0x20000000 → 清 .bss → bl ramboot_main" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="525" width="230" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
