@@ -1466,6 +1466,11 @@
         <mxCell id="aGwAJomjiOGLXFAXk9oH-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FZ3-sGv3P7ajsWyE9Rjl-1" target="aGwAJomjiOGLXFAXk9oH-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="aGwAJomjiOGLXFAXk9oH-16" value="3、" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aGwAJomjiOGLXFAXk9oH-15">
+          <mxGeometry x="0.4359" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="FZ3-sGv3P7ajsWyE9Rjl-1" value="&lt;div style=&quot;color: #cdd6f4;background-color: #1e1e2e;font-family: Consolas, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 20px;line-height: 27px;white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 27px;&quot;&gt;&lt;span style=&quot;color: #dcdcaa;&quot;&gt;upspi_burn_run&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="255" y="230" width="160" height="50" as="geometry" />
         </mxCell>
@@ -1497,7 +1502,7 @@
           <mxGeometry x="1070" y="60" width="1681" height="103" as="geometry" />
         </mxCell>
         <mxCell id="aGwAJomjiOGLXFAXk9oH-14" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="780" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
