@@ -1528,8 +1528,20 @@
         <mxCell id="92cMbqFPlEbW9E1rXJLo-17" value="ASRCn 输入" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1385" y="578" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="92cMbqFPlEbW9E1rXJLo-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="92cMbqFPlEbW9E1rXJLo-19" target="92cMbqFPlEbW9E1rXJLo-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="92cMbqFPlEbW9E1rXJLo-19" value="ASRCn 重采样" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1550" y="578" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="92cMbqFPlEbW9E1rXJLo-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="92cMbqFPlEbW9E1rXJLo-21" target="92cMbqFPlEbW9E1rXJLo-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="92cMbqFPlEbW9E1rXJLo-21" value="ASRCn 输出 FIFO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1540" y="688" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="92cMbqFPlEbW9E1rXJLo-23" value="ASRCn 输出 FIFO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="688" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
