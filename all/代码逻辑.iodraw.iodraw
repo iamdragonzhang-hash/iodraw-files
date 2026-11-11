@@ -1507,8 +1507,8 @@
         <mxCell id="92cMbqFPlEbW9E1rXJLo-9" value="DSP C0 route 线程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1580" y="508" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="92cMbqFPlEbW9E1rXJLo-11" value="DSP C0 route 线程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1380" y="508" width="120" height="30" as="geometry" />
+        <mxCell id="92cMbqFPlEbW9E1rXJLo-11" value="TX ringbuf → TX LL DMA → I2STX / SPDIFTX / DAC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="950" y="508" width="310" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
