@@ -1467,7 +1467,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GCnJVGVTbJHZySOWN5mO" name="1565&amp;2585_SPDIF">
-    <mxGraphModel dx="1728" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1597,7 +1597,7 @@
           <mxGeometry x="900" y="1190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="92cMbqFPlEbW9E1rXJLo-43" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;SPDIF频率检测联动ASRC&lt;/font&gt;" style="triangle;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="520" y="820" width="160" height="160" as="geometry" />
+          <mxGeometry x="510" y="950" width="160" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
