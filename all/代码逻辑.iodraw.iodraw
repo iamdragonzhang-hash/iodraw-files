@@ -1542,6 +1542,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="92cMbqFPlEbW9E1rXJLo-33" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;ASRC LL DMA（slot 19+n / 56+n）&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="92cMbqFPlEbW9E1rXJLo-24">
+          <mxGeometry x="0.0455" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="92cMbqFPlEbW9E1rXJLo-21" value="ASRCn 输出 FIFO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1540" y="688" width="120" height="30" as="geometry" />
         </mxCell>
