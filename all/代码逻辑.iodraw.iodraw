@@ -1585,13 +1585,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="92cMbqFPlEbW9E1rXJLo-36" value="dash_audio_in_control" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="1000" width="120" height="60" as="geometry" />
+          <mxGeometry x="900" y="980" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="92cMbqFPlEbW9E1rXJLo-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="92cMbqFPlEbW9E1rXJLo-38" target="92cMbqFPlEbW9E1rXJLo-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="92cMbqFPlEbW9E1rXJLo-38" value="phy_spdifrx_sample_rate_hz_get&lt;br&gt;1、配置时钟&lt;br&gt;2、读src_cnt&lt;br&gt;&lt;div&gt;3、将值返回&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="1090" width="120" height="60" as="geometry" />
+          <mxGeometry x="900" y="1070" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="92cMbqFPlEbW9E1rXJLo-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="92cMbqFPlEbW9E1rXJLo-41" target="92cMbqFPlEbW9E1rXJLo-44">
           <mxGeometry relative="1" as="geometry" />
