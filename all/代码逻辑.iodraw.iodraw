@@ -1527,8 +1527,14 @@
         <mxCell id="aGwAJomjiOGLXFAXk9oH-14" value="&lt;div style=&quot;color: rgb(205, 214, 244); background-color: rgb(30, 30, 46); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 20px; line-height: 27px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #dcdcaa;&quot;&gt;upspi_seed_write&lt;/span&gt;(&lt;span style=&quot;color: #569cd6;&quot;&gt;UPSPI_SEED_RESET_CPU&lt;/span&gt;)&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1060" y="370" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="aGwAJomjiOGLXFAXk9oH-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aGwAJomjiOGLXFAXk9oH-17" target="aGwAJomjiOGLXFAXk9oH-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aGwAJomjiOGLXFAXk9oH-17" value="CPU 核被复位，硬件从取向量地址读前 8 字节；因 bit5=1，取指向量地址被重映射到 0x20000000" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1050" y="525" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aGwAJomjiOGLXFAXk9oH-20" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="525" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
