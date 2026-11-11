@@ -1522,8 +1522,14 @@
         <mxCell id="92cMbqFPlEbW9E1rXJLo-15" value="SPDIFRX 解码器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1185" y="578" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="92cMbqFPlEbW9E1rXJLo-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="92cMbqFPlEbW9E1rXJLo-17" target="92cMbqFPlEbW9E1rXJLo-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="92cMbqFPlEbW9E1rXJLo-17" value="ASRCn 输入" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1385" y="578" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="92cMbqFPlEbW9E1rXJLo-19" value="ASRCn 重采样" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="578" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
