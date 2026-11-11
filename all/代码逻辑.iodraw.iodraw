@@ -1452,7 +1452,7 @@
         </mxCell>
         <mxCell id="aGwAJomjiOGLXFAXk9oH-6" value="1、校验payload_check" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FZ3-sGv3P7ajsWyE9Rjl-3">
           <mxGeometry x="0.3149" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="51" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aGwAJomjiOGLXFAXk9oH-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FZ3-sGv3P7ajsWyE9Rjl-1" target="aGwAJomjiOGLXFAXk9oH-3">
@@ -1460,22 +1460,20 @@
         </mxCell>
         <mxCell id="aGwAJomjiOGLXFAXk9oH-5" value="2、烧录stub程序" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aGwAJomjiOGLXFAXk9oH-4">
           <mxGeometry x="-0.164" y="2" relative="1" as="geometry">
-            <mxPoint x="42" y="2" as="offset" />
+            <mxPoint x="93" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aGwAJomjiOGLXFAXk9oH-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="aGwAJomjiOGLXFAXk9oH-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FZ3-sGv3P7ajsWyE9Rjl-1" target="aGwAJomjiOGLXFAXk9oH-14">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="450" y="260" as="sourcePoint" />
-            <mxPoint x="1095" y="405" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="625" y="260" />
-              <mxPoint x="625" y="405" />
+              <mxPoint x="590" y="255" />
+              <mxPoint x="590" y="400" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="aGwAJomjiOGLXFAXk9oH-16" value="3、写SEED寄存器触发复位" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aGwAJomjiOGLXFAXk9oH-15">
           <mxGeometry x="0.4359" relative="1" as="geometry">
-            <mxPoint x="-187" as="offset" />
+            <mxPoint x="-87" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aGwAJomjiOGLXFAXk9oH-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FZ3-sGv3P7ajsWyE9Rjl-1" target="aGwAJomjiOGLXFAXk9oH-17">
@@ -1490,7 +1488,7 @@
           <mxGeometry x="255" y="230" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FZ3-sGv3P7ajsWyE9Rjl-2" value="&lt;div style=&quot;color: rgb(205, 214, 244); background-color: rgb(30, 30, 46); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 20px; line-height: 27px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #dcdcaa;&quot;&gt;burn_payload_check&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="780" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="890" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FZ3-sGv3P7ajsWyE9Rjl-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FZ3-sGv3P7ajsWyE9Rjl-4" target="FZ3-sGv3P7ajsWyE9Rjl-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
