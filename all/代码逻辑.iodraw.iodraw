@@ -1484,6 +1484,9 @@
         <mxCell id="aGwAJomjiOGLXFAXk9oH-7" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="980" y="225" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="aGwAJomjiOGLXFAXk9oH-9" value="核心 = 「怎么让 CPU 跑到 SRAM」+「怎么把数据喂给它」两件事" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="8" width="380" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
