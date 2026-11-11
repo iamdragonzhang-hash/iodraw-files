@@ -1546,8 +1546,14 @@
         <mxCell id="92cMbqFPlEbW9E1rXJLo-23" value="共享 L2 ringbuf" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1350" y="688" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="92cMbqFPlEbW9E1rXJLo-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="92cMbqFPlEbW9E1rXJLo-25" target="92cMbqFPlEbW9E1rXJLo-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="92cMbqFPlEbW9E1rXJLo-25" value="DSP C0 route 线程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1160" y="688" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="92cMbqFPlEbW9E1rXJLo-27" value="TX ringbuf → TX LL DMA → I2STX / SPDIFTX / DAC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="800" y="688" width="310" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
