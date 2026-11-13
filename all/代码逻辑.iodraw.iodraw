@@ -1139,9 +1139,10 @@
         <mxCell id="W34CtFJaGHHVVmIo50ar-18" value="烧录完stub程序后配置为从RAM启动" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="1825" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="h7kWNWaMxMSXpU5q06wh-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="W34CtFJaGHHVVmIo50ar-19" target="h7kWNWaMxMSXpU5q06wh-1">
+        <mxCell id="h7kWNWaMxMSXpU5q06wh-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.326;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="W34CtFJaGHHVVmIo50ar-19" target="h7kWNWaMxMSXpU5q06wh-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="500" y="1620" />
               <mxPoint x="500" y="1575" />
               <mxPoint x="710" y="1575" />
               <mxPoint x="710" y="1500" />
@@ -1166,8 +1167,8 @@
         <mxCell id="W34CtFJaGHHVVmIo50ar-24" value="CPU 装 MSP → 跳到 ramboot_reset（stub_entry.S）：cpsid i 关中断 → VTOR=0x20000000 → 清 .bss → bl ramboot_main" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1310" y="2125" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="h7kWNWaMxMSXpU5q06wh-1" value="先把镜像写入从机 SRAM，再把从机配置成“从 SRAM 启动、只复位 CPU”，最后用硬件 SEED 触发复位。" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="1470" width="120" height="60" as="geometry" />
+        <mxCell id="h7kWNWaMxMSXpU5q06wh-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;先把镜像写入从机 SRAM，再把从机配置成“从 SRAM 启动、只复位 CPU”，最后用硬件 SEED 触发复位。&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="1470" width="790" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
